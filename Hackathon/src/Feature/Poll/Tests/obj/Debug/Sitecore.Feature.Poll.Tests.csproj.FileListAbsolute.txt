@@ -1,0 +1,5 @@
+D:\Hackathon\src\Feature\Poll\Tests\bin\Debug\Sitecore.Feature.Poll.Tests.dll
+D:\Hackathon\src\Feature\Poll\Tests\bin\Debug\Sitecore.Feature.Poll.Tests.pdb
+D:\Hackathon\src\Feature\Poll\Tests\obj\Debug\Sitecore.Feature.Poll.Tests.csprojResolveAssemblyReference.cache
+D:\Hackathon\src\Feature\Poll\Tests\obj\Debug\Sitecore.Feature.Poll.Tests.dll
+D:\Hackathon\src\Feature\Poll\Tests\obj\Debug\Sitecore.Feature.Poll.Tests.pdb

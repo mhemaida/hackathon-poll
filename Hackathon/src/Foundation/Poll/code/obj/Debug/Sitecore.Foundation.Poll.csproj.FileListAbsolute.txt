@@ -1,0 +1,6 @@
+D:\Hackathon\src\Foundation\Poll\code\bin\Sitecore.Foundation.Poll.dll.config
+D:\Hackathon\src\Foundation\Poll\code\bin\Sitecore.Foundation.Poll.dll
+D:\Hackathon\src\Foundation\Poll\code\bin\Sitecore.Foundation.Poll.pdb
+D:\Hackathon\src\Foundation\Poll\code\obj\Debug\Sitecore.Foundation.Poll.csprojResolveAssemblyReference.cache
+D:\Hackathon\src\Foundation\Poll\code\obj\Debug\Sitecore.Foundation.Poll.dll
+D:\Hackathon\src\Foundation\Poll\code\obj\Debug\Sitecore.Foundation.Poll.pdb
